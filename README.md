@@ -1,4 +1,4 @@
-# Equity-Valuation-Portfolio-Optimization
+## Equity-Valuation-Portfolio-Optimization
 
 End-to-end financial analytics project applying:
 - CAPM risk modeling
@@ -6,10 +6,10 @@ End-to-end financial analytics project applying:
 - MCDM (MAUT) stock ranking
 - Mean-Variance portfolio optimization
 
-# Objective
+## Objective
 Identify undervalued Indian mid-cap stocks and build an optimized portfolio using quantitative finance techniques.
 
-# Key Components
+## Key Components
 - Data collection using Yahoo Finance
 - Log return & volatility estimation
 - CAPM beta estimation
@@ -18,7 +18,7 @@ Identify undervalued Indian mid-cap stocks and build an optimized portfolio usin
 - Efficient frontier & optimal portfolio weights
 - Rule-based BUY / HOLD / AVOID recommendation
 
-# Outputs
+## Outputs
 - CAPM summary
 - Risk-return analysis
 - DCF valuation results
@@ -26,10 +26,10 @@ Identify undervalued Indian mid-cap stocks and build an optimized portfolio usin
 - Optimal portfolio weights
 - Final Investment recommendation
 
-# Tech Stack
+## Tech Stack
 Python, Pandas, Numpy, Matplotlib, yfinance, Jupyter Notebook
 
-# Author
+## Author
 Sachin Carvalho
 
 
