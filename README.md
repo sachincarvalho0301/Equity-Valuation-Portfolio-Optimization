@@ -30,6 +30,6 @@ Identify undervalued Indian mid-cap stocks and build an optimized portfolio usin
 Python, Pandas, Numpy, Matplotlib, yfinance, Jupyter Notebook
 
 # Author
-Sachin
+Sachin Carvalho
 
 
